@@ -1,15 +1,4 @@
-# fameladysquad-subgraph
-
-## Using the Subgraph
-
-You can query this subgraph in an online playground [here.](https://thegraph.com/hosted-service/subgraph/camiinthisthang/fameladysquad?version=pending)
-
-<img width="800" alt="Screen Shot 2022-02-26 at 1 04 17 AM" src="https://user-images.githubusercontent.com/15346823/155837246-86955592-68a3-4b58-9486-bc5934fd1189.png">
-
-## Resources
-
-### Step by Step Workshop
-Check out ["Getting Started With The Graph" workshop to walk you through building a subgraph.](https://github.com/camiinthisthang/subgraph-workshop)
+# Web3Bandits-subgraph
 
 ## How To:
 To find the URI of a token and see where their metadata is hosted:
@@ -23,6 +12,3 @@ To find the URI of a token and see where their metadata is hosted:
 <img width="951" alt="Screen Shot 2022-02-26 at 12 58 25 AM" src="https://user-images.githubusercontent.com/15346823/155837089-46a95ba2-5500-457b-bfa3-a347fe4d0ed1.png">
 5. [Copy the JSON object and paste into an online JSON formatter to view the object more clearly.](https://jsonformatter.curiousconcept.com/#) 
 
-
-## Additional Resources:
-[Check out this Assembly Script Cheat Sheet where you can view some of the common issues I ran into when working with assemblyscript to write the ```mappings.ts```](https://github.com/camiinthisthang/assemblyscript-cheatsheet-thegraph/blob/main/README.md)
